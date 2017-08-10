@@ -76,6 +76,10 @@ You can also start a new conversation, typing "botfather" as the name of the con
 
 4. See more steps in the [docs folder](https://github.com/barbaramartina/ruby-telegram-bot/tree/master/docs/1%20-%20contacting%20BotFather).  
 
+You can also query the bot father for more help with the */help* command
+
+![morehelp](https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/1%20-%20contacting%20BotFather/9%20-%20getting%20help%20from%20the%20botfather.png)  
+
 
 # 2. Creating the first ruby file for your bot
 
