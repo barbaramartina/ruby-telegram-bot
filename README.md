@@ -34,7 +34,7 @@ I'll cover the following points, giving examples taken from this project:
 
    a. Registering to **HEROKU.**  
    
-   b. Installing **HEROKU Toolbelt**.  
+   b. Installing **Heroku Command Line Interface (CLI), formerly HEROKU Toolbelt**.  
    
    c. Creating your bot app in **HEROKU** using *Toolbelt* from the command line.  
    
@@ -157,21 +157,25 @@ also choose another server or a Raspberry Pi for example. Check out the useful l
 
 Go to [**HEROKU**](https://www.heroku.com/) and sign up for a FREE account.  
 
-## b. Installing **HEROKU Toolbelt**  
+## b. Installing **Heroku Command Line Interface (CLI), formerly HEROKU Toolbelt**  
 
-Go to [**HEROKU ToolBelt page**](https://toolbelt.heroku.com), download and install in your computer.  
+Go to [**Heroku Command Line Interface (CLI)**](https://devcenter.heroku.com/articles/heroku-cli), download and install in your computer.  
 
-I did everything in OSX El Capitan.  
+I did everything in OSX El Capitan with the command 
 
-## c. Creating your bot app in **HEROKU** using *Toolbelt* from the command line
+  `brew install heroku`
 
-Here are the steps you need to follow using ToolBelt.  
+## c. Creating your bot app in **HEROKU** using *CLI* from the command line
+
+Here are the steps you need to follow using the Heroku CLI.  
 
 ### 1.  From the root folder of your bot project execute in the terminal:  
 
   `heroku login`
     
 ![login](https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/2%20-%20creating%20app%20with%20toolbelt/1%20-%20using%20ToolBelt%20-%20LOGIN.png)
+
+The previous will install the CLI and store your credentials to make any future change with heroku to be already authenticated. See more information in the section [Getting Started](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
     
 ### 2.  Execute create app command:  
 
