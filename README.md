@@ -57,6 +57,14 @@ Here I'll present the minimum steps you need to perform at least.
 
 ![BotFather](https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/1%20-%20contacting%20BotFather/1%20-%20start%20the%20bot.png)  
 
+Or alternatively go to this URL and it will ask you if you want to start a conversation with botfather [BOT FATHER URL](https://telegram.me/botfather)
+
+You can also start a new conversation, typing "botfather" as the name of the contact.
+
+<img src="https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/1%20-%20contacting%20BotFather/7%20-%20contacting%20botfather%201.png" width="400" align="center"> 
+<img src="https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/1%20-%20contacting%20BotFather/8%20-%20contacting%20botfather%202.png" width="400" align="center"> 
+
+
 2. Execute **/newbot**.   
 
 ![newbot](https://github.com/barbaramartina/ruby-telegram-bot/blob/master/docs/1%20-%20contacting%20BotFather/3%20-%20execute%20:newbot.png)  
@@ -94,7 +102,7 @@ In the case of this project, I'm using:
     gem 'google_places', '0.32.0'
     gem 'telegram-bot-ruby', '~> 0.5.0.beta4'
     
-###Install RubyGems
+### Install RubyGems
 
 [RubyGems](https://rubygems.org/pages/download) is a package management tool, if you don't have **RubyGems** installed in your system, follow this link and install it: https://rubygems.org/pages/download
 
