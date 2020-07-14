@@ -2,7 +2,7 @@
 
 Disclaimer: I've not been mantaining this project for a longggg while, feel free to fork or do a PR if you spot any issue. I hope it helps anybody out there whose needed a quick detailed guide to start with.
 
-<img src="https://telegram.org/img/t_logo.png" width="48"> <img src="https://pixabay.com/static/uploads/photo/2013/07/13/13/41/robot-161368_960_720.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2000px-Ruby_logo.svg.png" width="24"> 
+<img src="https://telegram.org/img/t_logo.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2000px-Ruby_logo.svg.png" width="24"> 
 
 ##### A simple [Telegram](https://telegram.org) bot written in [Ruby](https://www.ruby-lang.org/en) to search for nearby restaurants.   
 
