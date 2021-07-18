@@ -1,7 +1,7 @@
 # GiveMeFoodBot for Telegram
 
 ## Disclaimer
-I'm not mantaining this project for a longggg while, feel free to fork or do a PR if you spot any issue. I hope it helps anybody out there whose needed a quick detailed guide to start with.
+I'm not mantaining this project for a longggg while, feel free to fork or do a PR if you spot any issue. I hope it helps anybody out there who need a quick detailed guide to start with Telegram Bots.
 
 <img src="https://telegram.org/img/t_logo.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2000px-Ruby_logo.svg.png" width="24"> 
 
